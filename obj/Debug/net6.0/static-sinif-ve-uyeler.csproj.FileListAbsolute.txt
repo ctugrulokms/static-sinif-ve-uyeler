@@ -1,0 +1,15 @@
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/static-sinif-ve-uyeler/bin/Debug/net6.0/static-sinif-ve-uyeler
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/static-sinif-ve-uyeler/bin/Debug/net6.0/static-sinif-ve-uyeler.deps.json
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/static-sinif-ve-uyeler/bin/Debug/net6.0/static-sinif-ve-uyeler.runtimeconfig.json
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/static-sinif-ve-uyeler/bin/Debug/net6.0/static-sinif-ve-uyeler.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/static-sinif-ve-uyeler/bin/Debug/net6.0/ref/static-sinif-ve-uyeler.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/static-sinif-ve-uyeler/bin/Debug/net6.0/static-sinif-ve-uyeler.pdb
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/static-sinif-ve-uyeler/obj/Debug/net6.0/static-sinif-ve-uyeler.csproj.AssemblyReference.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/static-sinif-ve-uyeler/obj/Debug/net6.0/static-sinif-ve-uyeler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/static-sinif-ve-uyeler/obj/Debug/net6.0/static-sinif-ve-uyeler.AssemblyInfoInputs.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/static-sinif-ve-uyeler/obj/Debug/net6.0/static-sinif-ve-uyeler.AssemblyInfo.cs
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/static-sinif-ve-uyeler/obj/Debug/net6.0/static-sinif-ve-uyeler.csproj.CoreCompileInputs.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/static-sinif-ve-uyeler/obj/Debug/net6.0/static-sinif-ve-uyeler.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/static-sinif-ve-uyeler/obj/Debug/net6.0/ref/static-sinif-ve-uyeler.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/static-sinif-ve-uyeler/obj/Debug/net6.0/static-sinif-ve-uyeler.pdb
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/static-sinif-ve-uyeler/obj/Debug/net6.0/static-sinif-ve-uyeler.genruntimeconfig.cache
